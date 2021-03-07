@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+brave/__init__.py
+brave/_brave.py
+brave/notebook_display.py
+brave/palettes.py
+brave.egg-info/PKG-INFO
+brave.egg-info/SOURCES.txt
+brave.egg-info/dependency_links.txt
+brave.egg-info/entry_points.txt
+brave.egg-info/requires.txt
+brave.egg-info/top_level.txt
+examples/__init__.py
+examples/brave_example.py
+templates/embedded_brat__template.html
